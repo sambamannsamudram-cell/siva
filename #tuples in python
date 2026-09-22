@@ -1,0 +1,4 @@
+#tuples in python
+#Tuples is a collection which is ordered and unchangeable. Tuples are written with round brackets.
+student = ("siva", 20, "python")
+print(student[0])
